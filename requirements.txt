@@ -6,3 +6,6 @@ librosa
 SpeechRecognition
 swig
 pocketsphinx
+numpy
+vosk
+paho-mqtt
